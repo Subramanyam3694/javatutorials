@@ -1,0 +1,11 @@
+import java.util.Scanner;
+class journeycalculator{
+   double speed;
+   double time;
+   double distance;
+time(){
+System.out.println("the time is very less");
+}
+public static void main(String[]args){
+Scanner s1=new Scanner(System.in);
+journeycalculator j1=new journeyca
